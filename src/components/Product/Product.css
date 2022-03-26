@@ -1,0 +1,25 @@
+.product{
+    
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 7px;
+    
+}
+.product img{
+    padding-left: 24px;
+    padding-top: 7px;
+
+}
+.product-info{
+    padding: 25px;
+}
+.cart-button{
+    width: 100%;
+}
+.cart-button{
+    background-color: tomato;
+    border-radius: 0 0 7px 7px;
+}
+.cart-button:hover{
+    background-color: yellow;
+}
